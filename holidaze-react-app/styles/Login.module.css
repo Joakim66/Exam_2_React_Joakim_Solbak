@@ -1,0 +1,8 @@
+/* Login Page Styling */
+.login_form_container{
+    max-width: 500px;
+    margin: 0 auto;
+}
+.login_form_container h2{
+    text-align: center;
+}
